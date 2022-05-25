@@ -4,7 +4,7 @@
   <a href="https://t.me/codeelo">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/codeelo">
+  <a href="https://www.youtube.com/c/codeelo?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   </div>
